@@ -1,0 +1,15 @@
+Wordpress plugin inspired by the post in css-tricks blog : <a href="http://css-tricks.com/14647-abbrs-for-web-nerd-acronymns/">css-tricks.com/14647-abbrs-for-web-nerd-acronymns/</a>
+
+Premature version.
+
+Actually when you enable the plugin it only filters text, and the abbrs are the ones hardcoded inside the plugin.
+
+Future todo : 
+
+* add personalized terms.
+* decide where to apply filter, even comments or descriptions.
+* decide if the plugin is enabled inside post or page.
+
+Installation
+============
+Simply download file to your plugins folder, then enable it via admin.
